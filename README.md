@@ -17,9 +17,7 @@ I like clean code, practical learning, and sharing projects that combine technic
 🌍 **Languages**: Spanish & Catalan (Native), English (B2), French (A2)  
 🛠️ **Tech focus**: CAD, automation, databases, front-end, and AI tools  
 🚀 **Passions**: Open source, digital design, education, and health tech  
-📫 **Contact**: marc.ortiz.segura@gmail.com | [GitHub](https://github.com/MarcOrtiz21)
-
-## 💼 Main Skills
+📫 **Contact**: marc.ortiz.segura@gmail.com
 
 ## 💻 Technical Skills
 
