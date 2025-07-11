@@ -1,0 +1,118 @@
+{
+    "newCommands": [
+        {
+            "line": "whoami",
+            "timeout": 10,
+            "path": "/home",
+            "shouldType": true
+        },
+        {
+            "line": "marc",
+            "timeout": 200,
+            "path": "",
+            "shouldType": false
+        },
+        {
+            "line": "cd portfolio",
+            "timeout": 150,
+            "path": "/home",
+            "shouldType": true
+        },
+        {
+            "line": "cat skills.md",
+            "timeout": 100,
+            "path": "/portfolio",
+            "shouldType": true
+        },
+        {
+            "line": "Languages: C, C++, Java, PHP, NodeJS",
+            "timeout": 200,
+            "path": "",
+            "shouldType": false
+        },
+        {
+            "line": "Tools: Git, Notion, PowerShell, Visual Studio, .NET, Anaconda",
+            "timeout": 100,
+            "path": "",
+            "shouldType": false
+        },
+        {
+            "line": "Currently Learning: Python, MATLAB, R, Swift, Raspberry Pi, Bash",
+            "timeout": 100,
+            "path": "",
+            "shouldType": false
+        },
+        {
+            "line": "Design & Others: Photoshop, Illustrator, Blender, AutoCAD",
+            "timeout": 100,
+            "path": "",
+            "shouldType": false
+        },
+        {
+            "line": "echo \"Always learning. Always building.\"",
+            "timeout": 200,
+            "path": "/portfolio",
+            "shouldType": true
+        },
+        {
+            "line": "Always learning. Always building.",
+            "timeout": 200,
+            "path": "",
+            "shouldType": false
+        },
+        {
+            "line": "git push --force --with-style",
+            "timeout": 300,
+            "path": "/portfolio",
+            "shouldType": true
+        }
+    ],
+    "newSettings": {
+        "width": {
+            "value": 700,
+            "default": 700
+        },
+        "height": {
+            "value": 300,
+            "default": 300
+        },
+        "fontFamily": {
+            "value": "system-ui"
+        },
+        "fontSize": {
+            "value": 15,
+            "default": 15
+        },
+        "typeWaitMs": {
+            "value": 50,
+            "default": 50
+        }
+    },
+    "newColors": {
+        "header": {
+            "text": "Header",
+            "color": "#334756",
+            "default": "#334756"
+        },
+        "leftBtn": {
+            "text": "Header left button",
+            "color": "tomato",
+            "default": "tomato"
+        },
+        "rightBtn": {
+            "text": "Header right button",
+            "color": "lime",
+            "default": "lime"
+        },
+        "path": {
+            "text": "Path",
+            "color": "#49FF00",
+            "default": "#49FF00"
+        },
+        "command": {
+            "text": "Command",
+            "color": "white",
+            "default": "white"
+        }
+    }
+}
