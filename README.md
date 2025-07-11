@@ -2,13 +2,15 @@
 
 ## 👋 About Me
 
-I'm Marc Ortiz Segura — a passionate and proactive Industrial Technologies Engineering student based in Barcelona, Spain.
+## 👨‍🔧 About Me
 
-With hands-on experience in technical support, education, and process optimization, I combine my engineering studies with real-world work in customer service, digital tools, and teamwork environments.
+Hi! I'm Marc, an engineering student passionate about technology, software, and building useful systems.
 
-I’m especially motivated by projects that bring together design, efficiency, and people. I love solving problems — whether it's automating tasks with Python, optimizing a website's UX, or helping a student master calculus.
+My main interests lie in automation, algorithm design, and creative coding. I'm familiar with Python, C++, Java, and web development stacks. I also enjoy combining design and code — whether it's 3D modeling in Blender, optimizing interfaces, or working with sensors and hardware.
 
-Currently open to part-time or weekend opportunities where I can apply and grow my engineering skillset.
+I'm constantly learning and experimenting with new tools: cloud platforms, scripting, data visualization, or AI models — anything that helps turn ideas into working solutions.
+
+I like clean code, practical learning, and sharing projects that combine technical depth with real-world utility.
 
 ---
 🎓 **Student at**: UPC - ESEIAAT (Universitat Politècnica de Catalunya)  
@@ -19,28 +21,41 @@ Currently open to part-time or weekend opportunities where I can apply and grow 
 
 ## 💼 Main Skills
 
-<div align="center">
+## 💻 Technical Skills
 
-### 🧠 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,nodejs,php)](https://skillicons.dev)
+### 🧠 Languages & Scripting  
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 
-### 🛠️ IDEs & Development  
-[![IDEs](https://skillicons.dev/icons?i=visualstudio,dotnet,anaconda,arduino)](https://skillicons.dev)
+### 💡 IDEs & Development  
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev) 
+[![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) 
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) 
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
 
 ### ⚙️ Tools & Version Control  
-[![Tools](https://skillicons.dev/icons?i=git,powershell,notion)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
+[![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) 
+[![Powershell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 
-### ☁️ Cloud Platforms  
-[![Cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+### ☁️ Cloud & Databases  
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) 
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-### 🗃️ Databases  
-[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-### 🎨 Adobe & Design Tools  
-[![Adobe](https://skillicons.dev/icons?i=ai,ps,pr,au)](https://skillicons.dev)
+### 🎨 Design & Adobe Suite  
+[![Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) 
+[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) 
+[![Premiere](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) 
+[![Audition](https://skillicons.dev/icons?i=au)](https://skillicons.dev)
 
 ### 🧩 Others  
-[![Other](https://skillicons.dev/icons?i=apple,autocad,blender)](https://skillicons.dev)
+[![Apple](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) 
+[![Autocad](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev) 
+[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
 
 </div>
 
@@ -48,9 +63,13 @@ Currently open to part-time or weekend opportunities where I can apply and grow 
 
 ## 📚 Currently Learning
 
-<div align="center">
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev) 
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
+[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev) 
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev) 
+[![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) 
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
-[![Learning](https://skillicons.dev/icons?i=matlab,py,r,raspberrypi,swift,bash)](https://skillicons.dev)
 
 </div>
 
