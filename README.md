@@ -2,7 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=E4CFF7&width=435&lines=Hi%2C+it's+Marc+Ortiz;Industrial+Engineer" alt="Typing SVG" /></a>
 
-<img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+<div align="center">
+  <img src="./assets/Marc_terminal.gif" alt="About Me Terminal GIF" width="700"/>
+</div>
 
 ## 👋 About Me
 
