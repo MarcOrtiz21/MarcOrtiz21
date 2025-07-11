@@ -61,8 +61,6 @@ I like clean code, practical learning, and sharing projects that combine technic
 
 </div>
 
----
-
 ## 📚 Currently Learning
 
 [![MATLAB](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev) 
@@ -75,6 +73,7 @@ I like clean code, practical learning, and sharing projects that combine technic
 
 </div>
 
+---
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1PeOtJLaKLDlqUpQdkASESaaDtbFZFKue/view?usp=sharing" download>Download my resume</a>
