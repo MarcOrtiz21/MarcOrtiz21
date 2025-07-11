@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-## 👋 About Me
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=E4CFF7&width=435&lines=Hi%2C+it's+Marc+Ortiz;Industrial+Engineer" alt="Typing SVG" /></a>
 
-## 👨‍🔧 About Me
+
+
+## 👋 About Me
 
 Hi! I'm Marc, an engineering student passionate about technology, software, and building useful systems.
 
@@ -71,6 +73,8 @@ I like clean code, practical learning, and sharing projects that combine technic
 
 </div>
 
-
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1PeOtJLaKLDlqUpQdkASESaaDtbFZFKue/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
