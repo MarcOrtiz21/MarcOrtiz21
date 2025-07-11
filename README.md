@@ -1,5 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+## 👋 About Me
+
+I'm Marc Ortiz Segura — a passionate and proactive Industrial Technologies Engineering student based in Barcelona, Spain.
+
+With hands-on experience in technical support, education, and process optimization, I combine my engineering studies with real-world work in customer service, digital tools, and teamwork environments.
+
+I’m especially motivated by projects that bring together design, efficiency, and people. I love solving problems — whether it's automating tasks with Python, optimizing a website's UX, or helping a student master calculus.
+
+Currently open to part-time or weekend opportunities where I can apply and grow my engineering skillset.
+
+---
+🎓 **Student at**: UPC - ESEIAAT (Universitat Politècnica de Catalunya)  
+🌍 **Languages**: Spanish & Catalan (Native), English (B2), French (A2)  
+🛠️ **Tech focus**: CAD, automation, databases, front-end, and AI tools  
+🚀 **Passions**: Open source, digital design, education, and health tech  
+📫 **Contact**: marc.ortiz.segura@gmail.com | [GitHub](https://github.com/MarcOrtiz21)
 
 ## 💼 Main Skills
 
