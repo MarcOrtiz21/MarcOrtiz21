@@ -25,51 +25,13 @@ I like clean code, practical learning, and sharing projects that combine technic
 
 ## 💻 Technical Skills
 
-### 🧠 Languages & Scripting  
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) 
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-
-### 💡 IDEs & Development  
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev) 
-[![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) 
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev) 
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev)
-
-### ⚙️ Tools & Version Control  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
-[![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev) 
-[![Powershell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-
-### ☁️ Cloud & Databases  
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev) 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-### 🎨 Design & Adobe Suite  
-[![Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev) 
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev) 
-[![Premiere](https://skillicons.dev/icons?i=pr)](https://skillicons.dev) 
-[![Audition](https://skillicons.dev/icons?i=au)](https://skillicons.dev)
-
-### 🧩 Others  
-[![Apple](https://skillicons.dev/icons?i=apple)](https://skillicons.dev) 
-[![Autocad](https://skillicons.dev/icons?i=autocad)](https://skillicons.dev) 
-[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-
-
-</div>
-
-## 📚 Currently Learning
-
-[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev) 
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
-[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev) 
-[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev) 
-[![Swift](https://skillicons.dev/icons?i=swift)](https://skillicons.dev) 
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,r,matlab,arduino,anaconda,git,powershell,visualstudio" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,swift,bash,autocad,blender,ai,ps,pr,au,apple" />
+  </a>
+</p>
 
 </div>
 
