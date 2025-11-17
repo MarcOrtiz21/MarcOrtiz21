@@ -38,6 +38,6 @@ I like clean code, practical learning, and sharing projects that combine technic
 ---
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1PeOtJLaKLDlqUpQdkASESaaDtbFZFKue/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1GR6GPUxDptilxSkhVQ-0_raT8bgqNaoc/view?usp=drive_link" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
