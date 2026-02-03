@@ -27,7 +27,7 @@ I like clean code, practical learning, and sharing projects that combine technic
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,r,matlab,arduino,git,powershell,visualstudio" />
     <br>
-    <img src="https://skillicons.dev/icons?i=raspberrypi,swift,bash,autocad,blender,ps,pr,au,apple" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi,bash,autocad,blender,ps,pr,au,swift,apple" />
   </a>
 </p>
 
