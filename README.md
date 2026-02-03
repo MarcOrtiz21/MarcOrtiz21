@@ -2,8 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=E4CFF7&width=435&lines=Hi%2C+it's+Marc+Ortiz;Industrial+Engineer" alt="Typing SVG" /></a>
 
-<div align="center">
-  <img src="./assets/Marc_terminal.gif" alt="About Me Terminal GIF" width="700"/>
 </div>
 
 ## 👋 About Me
@@ -17,11 +15,11 @@ I'm constantly learning and experimenting with new tools: cloud platforms, scrip
 I like clean code, practical learning, and sharing projects that combine technical depth with real-world utility.
 
 ---
-🎓 **Student at**: UPC - ESEIAAT (Universitat Politècnica de Catalunya)  
-🌍 **Languages**: Spanish & Catalan (Native), English (B2), French (A2)  
-🛠️ **Tech focus**: CAD, automation, databases, front-end, and AI tools  
-🚀 **Passions**: Open source, digital design, education, and health tech  
-📫 **Contact**: marc.ortiz.segura@gmail.com
+ **Student at**: UPC - ESEIAAT (Universitat Politècnica de Catalunya)  
+ **Languages**: Spanish & Catalan (Native), English (B2), French (A2)  
+ **Tech focus**: CAD, automation, databases, front-end, and AI tools  
+ **Passions**: Open source, digital design, education, and health tech  
+ **Contact**: marc.ortiz.segura@gmail.com
 
 ## 💻 Technical Skills
 
