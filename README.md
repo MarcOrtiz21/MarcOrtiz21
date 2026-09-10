@@ -1,41 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B111B,100:4A281F&height=90&section=header" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=E4CFF7&width=435&lines=Hi%2C+it's+Marc+Ortiz;Industrial+Engineer" alt="Typing SVG" /></a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=E4CFF7&width=650&lines=Hi%2C+I'm+Marc+Ortiz;Industrial+Engineering+Student;Automation+%7C+Data+%7C+Software" alt="Typing SVG" />
+  </a>
 </div>
 
 ## 👋 About Me
 
-Hi! I'm Marc, an engineering student passionate about technology, software, and building useful systems.
+I'm Marc, an Industrial Engineering student at [UPC–ESEIAAT](https://etseib.upc.edu/en) following the PARS track. I enjoy turning real-world needs into practical software and technical systems through automation, data analysis, software development and technical design.
 
-My main interests lie in automation, algorithm design, and creative coding. I'm familiar with Python, C++, Java, and web development stacks. I also enjoy combining design and code — whether it's 3D modeling in Blender, optimizing interfaces, or working with sensors and hardware.
+I'm currently building utility-focused tools such as [NEXUS Workstation](https://github.com/MarcOrtiz21/NEXUS) and [Mantenimiento](https://github.com/MarcOrtiz21/Mantenimiento), while contributing to open-source projects like [Google's OSV-Scalibr](https://github.com/google/osv-scalibr).
 
-I'm constantly learning and experimenting with new tools: cloud platforms, scripting, data visualization, or AI models — anything that helps turn ideas into working solutions.
-
-I like clean code, practical learning, and sharing projects that combine technical depth with real-world utility.
-
----
- **Student at**: UPC - ESEIAAT (Universitat Politècnica de Catalunya)  
- **Languages**: Spanish & Catalan (Native), English (B2), French (A2)  
- **Tech focus**: CAD, automation, databases, front-end, and AI tools  
- **Passions**: Open source, digital design, education, and health tech  
- **Contact**: marc.ortiz.segura@gmail.com
+> Spanish & Catalan (native) · English (B2) · French (A2)
 
 ## 💻 Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,r,matlab,arduino,git,powershell,visualstudio" />
-    <br>
+    <br />
     <img src="https://skillicons.dev/icons?i=raspberrypi,bash,autocad,blender,ps,pr,au,swift,apple" />
   </a>
 </p>
 
-</div>
-
 ---
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1GR6GPUxDptilxSkhVQ-0_raT8bgqNaoc/view?usp=drive_link" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+## 🧭 Open to opportunities
+
+I'm currently looking for internships and technical projects where I can keep learning and contribute with initiative, analytical thinking and a practical mindset.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marc-ortiz-segura/">🔗 LinkedIn</a> ·
+  <a href="https://mplusplus.vercel.app/">🌐 Portfolio</a> ·
+  <a href="mailto:marc.ortiz.segura@gmail.com">✉️ Email</a> ·
+  <a href="https://drive.google.com/file/d/1GR6GPUxDptilxSkhVQ-0_raT8bgqNaoc/view?usp=drive_link">📄 Resume</a>
+</p>
