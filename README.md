@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## 👋 About Me
+## About Me
 
 I'm Marc, an Industrial Engineering student at [UPC–ESEIAAT](https://etseib.upc.edu/en) following the PARS track. I enjoy turning real-world needs into practical software and technical systems through automation, data analysis, software development and technical design.
 
@@ -14,7 +14,7 @@ I'm currently building utility-focused tools such as [NEXUS Workstation](https:/
 
 > Spanish & Catalan (native) · English (B2) · French (A2)
 
-## 💻 Technical Skills
+## Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@ I'm currently building utility-focused tools such as [NEXUS Workstation](https:/
 
 ---
 
-## 🧭 Open to opportunities
+## Open to opportunities
 
 I'm currently looking for internships and technical projects where I can keep learning and contribute with initiative, analytical thinking and a practical mindset.
 
