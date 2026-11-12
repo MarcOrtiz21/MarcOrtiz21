@@ -8,9 +8,11 @@
 
 ## About Me
 
-I'm Marc, an Industrial Engineering student at [UPC–ESEIAAT](https://etseib.upc.edu/en) following the PARS track. I enjoy turning real-world needs into practical software and technical systems through automation, data analysis, software development and technical design.
+I'm Marc, an Industrial Engineering student at [UPC–ESEIAAT](https://eseiaat.upc.edu/es), focused on software development, data engineering, automation and intelligent systems.
 
-I'm currently building utility-focused tools such as [NEXUS Workstation](https://github.com/MarcOrtiz21/NEXUS) and [Mantenimiento](https://github.com/MarcOrtiz21/Mantenimiento), while contributing to open-source projects like [Google's OSV-Scalibr](https://github.com/google/osv-scalibr).
+I enjoy building practical applications that connect data, software and real-world systems, from native desktop tools and hardware monitoring to analytical platforms and probabilistic modelling.
+
+Currently building utility-focused tools such as [NEXUS Workstation](https://github.com/MarcOrtiz21/NEXUS) and [Mantenimiento](https://github.com/MarcOrtiz21/Mantenimiento), while contributing to open-source projects like [Google's OSV-Scalibr](https://github.com/google/osv-scalibr).
 
 > Spanish & Catalan (native) · English (B2) · French (A2)
 
