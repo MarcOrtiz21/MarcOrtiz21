@@ -12,7 +12,7 @@ I'm Marc, an Industrial Engineering student at [UPC–ESEIAAT](https://eseiaat.u
 
 I enjoy building practical applications that connect data, software and real-world systems, from native desktop tools and hardware monitoring to analytical platforms and probabilistic modelling.
 
-Currently building utility-focused tools such as [NEXUS Workstation](https://github.com/MarcOrtiz21/NEXUS) and [Mantenimiento](https://github.com/MarcOrtiz21/Mantenimiento), while contributing to open-source projects like [Google's OSV-Scalibr](https://github.com/google/osv-scalibr).
+Currently building utility-focused tools such as [NEXUS Workstation](https://github.com/MarcOrtiz21/NEXUS) and [MTelemetry](https://github.com/MarcOrtiz21/MTelemetry), while contributing to open-source projects like [Google's OSV-Scalibr](https://github.com/google/osv-scalibr).
 
 > Spanish & Catalan (native) · English (B2) · French (A2)
 
