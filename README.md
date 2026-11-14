@@ -36,5 +36,6 @@ I'm currently looking for internships and technical projects where I can keep le
   <a href="https://www.linkedin.com/in/marc-ortiz-segura/">🔗 LinkedIn</a> ·
   <a href="https://mplusplus.vercel.app/">🌐 Portfolio</a> ·
   <a href="mailto:marc.ortiz.segura@gmail.com">✉️ Email</a> ·
-  <a href="https://drive.google.com/file/d/1GR6GPUxDptilxSkhVQ-0_raT8bgqNaoc/view?usp=drive_link">📄 Resume</a>
+  📄 Resume: <a href="./assets/Marc_Ortiz_Segura_CV_General_EN.pdf">English</a> ·
+  <a href="./assets/Marc_Ortiz_Segura_CV_General_ES.pdf">Spanish</a>
 </p>
